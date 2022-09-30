@@ -1,0 +1,156 @@
+
+nav_all:
+  other: All
+nav_older:
+  other: 下一篇
+nav_newer:
+  other: 上一篇
+
+
+page_home:
+  other: 主頁
+page_archive:
+  other: 歸檔
+page_archives:
+  other: 歸檔
+page_category:
+  other: 類別
+page_categories:
+  other: 類別
+page_tag:
+  other: 標籤
+page_tags:
+  other: 標籤
+page_tagcloud:
+  other: 標籤雲
+page_uncategorized:
+  other: 未分類
+page_repository:
+  other: 項目
+page_douban:
+  other: 豆瓣
+page_books:
+  other: 書單
+page_books-desc:
+  other: 個人收藏的書單推薦給大家
+page_movies:
+  other: 電影
+page_movies-desc:
+  other: 個人喜歡的電影推薦給大家
+page_links:
+  other: 友情連結
+page_links-desc:
+  other: 歡迎交換連結，可在當前頁面留言
+page_about:
+  other: 關於
+
+pagination_next:
+  other: 下一頁
+pagination_prev:
+  other: 上一頁
+pagination_page:
+  other: 第 %d 頁
+pagination_pageof:
+  other: 頁面 %d of %s
+
+widget_search:
+  other: 搜尋
+widget_board:
+  other: 公告
+widget_archive:
+  other: 歸檔
+widget_tags:
+  other: 標籤
+widget_categories:
+  other: 類別
+widget_tagcloud:
+  other: 標籤雲
+widget_recent_posts:
+  other: 最新文章
+
+
+profile_follow:
+  other: 追隨
+profile_skill:
+  other: 技能
+profile_label:
+  other: 個人標籤
+profile_work:
+  other: 個人作品
+profile_project:
+  other: 個人專案
+profile_link:
+  other: 個人連結
+
+unit_word:
+  other: 字
+unit_time:
+  other: 分
+
+article_wordcount:
+  other: "字數統計: "
+article_readcount:
+  other: "閱讀時間: "
+article_more:
+  other: 查看更多
+article_comments:
+  other: 評論
+article_share:
+  other: 分享到
+article_catalogue:
+  other: 文章目錄
+
+total_article:
+  other: 共 {{ .Count }} 篇文章
+total_tag:
+  other: 共 {{ .Count }} 个標籤
+total_category:
+  other: 共 {{ .Count }} 个類別
+total_link:
+  other: 共 {{ .Count }} 友情連結
+total_repository:
+  other: 共 {{ .Count }} 項目
+
+
+comment:
+  other: 評論
+tweets:
+  other: 推文
+share:
+  other: 分享
+rss_feed:
+  other: RSS Feed
+
+
+copyright_theme_by:
+  other: Theme by
+copyright_base_on:
+  other: base on
+copyright_powered_by:
+  other: Powered by
+
+copyright_post:
+  other: 本文連結
+copyright_license:
+  other: License
+
+
+insight_hint: 
+  other: 想要搜尋什麼...
+insight_posts: 
+  other: 文章
+insight_pages: 
+  other: 頁面
+insight_categories:
+  other: 類別
+insight_tags:
+  other: 標籤
+insight_untitled:
+  other: (未命名)
+
+page_not_found_heading:
+  other: 404 Not Found
+page_not_found_body:
+  other: 找不到頁面
+page_not_found_back:
+  other: 返回首頁
